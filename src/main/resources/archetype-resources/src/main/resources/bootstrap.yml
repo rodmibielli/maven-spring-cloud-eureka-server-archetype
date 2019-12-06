@@ -1,0 +1,10 @@
+---
+server:
+  port: $!{port}
+
+eureka:
+  client:
+    registerWithEureka : false
+    fetchRegistry: false
+
+

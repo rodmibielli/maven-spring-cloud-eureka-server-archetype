@@ -1,2 +1,2 @@
-# maven-spring-cloud-eureka-server-archetype
-Maven Archetype for generating Spring Cloud Eureka! Server
+# maven-spring-cloud-server-config-archetype
+Maven Archetype Plugin for Spring Cloud Server Config
